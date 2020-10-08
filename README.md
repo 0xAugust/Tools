@@ -10,5 +10,6 @@
 5、windget获取win密码免杀.7z			暂未公开[密码在博客]
 6、迅雷X版.7z					v10.1.29.698_SVIP免安装去广告精简版
 7、dump_ntds.7z					暂未公开[密码在博客]
+8、Windows Update Blocker v1.1.zip		win10禁止更新小工具
 ```
 
